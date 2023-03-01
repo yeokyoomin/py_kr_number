@@ -16,6 +16,11 @@
 #If you need to edit this file, please check this out and do it!
 
 #==========Edit method==========#
+#elif count == 20:
+#Change the 20 written in that code to 24.
+#example : elif count == 24:
+#list_1.append("해") < this "해" You can write the unit you want to add in the part where is written.
+#Please don't touch the others unless you're going to change the entire code.
 def convert(num, end):
     n_int = int(num)
     n_str = str(n_int)
