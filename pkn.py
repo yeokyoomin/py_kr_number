@@ -36,27 +36,16 @@ def convert(num, end):
     for i in range(len(r_str)):
         if count == 4:
             list_1.append("만")
-            list_1.append(r_str[i])
-            count += 1
         elif count == 8:
             list_1.append("억")
-            list_1.append(r_str[i])
-            count += 1
         elif count == 12:
             list_1.append("조")
-            list_1.append(r_str[i])
-            count += 1
         elif count == 16:
             list_1.append("경")
-            list_1.append(r_str[i])
-            count += 1
         elif count == 20:
             list_1.append("해")
-            list_1.append(r_str[i])
-            count += 1
-        else:
-            list_1.append(r_str[i])
-            count += 1
+        list_1.append(r_str[i])
+        count += 1
     list_1.reverse()
     list_1.append("원")
     return ''.join(list_1)
