@@ -1,5 +1,3 @@
-![](https://cdn.discordapp.com/attachments/1122124905496981575/1122124947674906644/-001_20.png)
-
 **py-kr-number(pkn)**
 =============
 Simple Korean unit conversion module
