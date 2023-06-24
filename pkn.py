@@ -70,7 +70,7 @@ def convert(num, end):
         list_1.append(r_str[i])
         count += 1
     list_1.reverse()
-    list_1.append("원")
+    list_1.append(end)
     return ''.join(list_1)
 def help_pkn():
     print("====<help>====")
