@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: py-kr-number
+Version: 0.0.1
+Summary: Simple Korean unit conversion module
+Home-page: https://github.com/yeokyoomin/py_kr_number.git
+Author: yeokyoomin
+Author-email: msdhgoom@gmail.com
+License: yeokyoomin
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+**py-kr-number(pkn)**
+=============
+Simple Korean unit conversion module
+-------------
+**py-kr-number(pkn)** is a very convenient Korean unit converter. This module converts numbers into Korean units when you enter them.   
+Using this module is very simple. How to use :
+<pre><code>import pkn
+pkn.convert(number, "won")
+</code></pre>
+**There are no other features other than this.**
+
+**Note**: You are free to modify the code.
+The modification method is specified in the file.

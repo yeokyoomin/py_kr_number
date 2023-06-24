@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pkn.py
+setup.py
+py_kr_number.egg-info/PKG-INFO
+py_kr_number.egg-info/SOURCES.txt
+py_kr_number.egg-info/dependency_links.txt
+py_kr_number.egg-info/not-zip-safe
+py_kr_number.egg-info/top_level.txt

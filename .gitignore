@@ -1,0 +1,4 @@
+dist/
+build/
+.github/
+py_kr_number.egg-info/
