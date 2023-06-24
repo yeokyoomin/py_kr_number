@@ -1,4 +1,4 @@
-**py-kr-number(pkn)**
+**py-kr-number(pkn)** [![Python package](https://github.com/yeokyoomin/py_kr_number/actions/workflows/python-package.yml/badge.svg?branch=main)](https://github.com/yeokyoomin/py_kr_number/actions/workflows/python-package.yml)
 =============
 Simple Korean unit conversion module
 -------------
