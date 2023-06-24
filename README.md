@@ -8,3 +8,6 @@ Using this module is very simple. How to use :
 pkn.convert(number, "won")
 </code></pre>
 **There are no other features other than this.**
+
+**Note**: You are free to modify the code.
+The modification method is specified in the file.
