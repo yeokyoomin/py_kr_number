@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='py_kr_number',
-    version='0.0.1',
+    version='0.0.2',
     description='Simple Korean unit conversion module',
     url='https://github.com/yeokyoomin/py_kr_number.git',
     author='yeokyoomin',
