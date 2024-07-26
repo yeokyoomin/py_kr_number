@@ -1,6 +1,7 @@
 import pkn
 
 def test_case_first():
-    xq = pkn.convert(10000, "won")
-    gidae = "1만0000won"
-    assert gidae == xq
+    result_1 = "원"
+    result = pkn.convert(10000, result_1)
+    want = "1만0000원"
+    assert want == result
