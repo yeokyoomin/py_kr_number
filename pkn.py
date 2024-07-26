@@ -67,7 +67,7 @@ def convert(num, end):
             list_1.append("경")
         elif count == 20:
             list_1.append("해")
-        if r_str[i] != 0
+        if r_str[i] != 0:
             list_1.append(r_str[i])
         count += 1
     list_1.reverse()
