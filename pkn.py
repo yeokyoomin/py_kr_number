@@ -72,6 +72,7 @@ def convert(num, end):
         count += 1
     list_1.reverse()
     list_1.append(end)
+    print(list_1)
     return ''.join(list_1)
 def help_pkn():
     print("====<help>====")
